@@ -1,4 +1,4 @@
-# IrrigationSystem
+# Irrigation System
 
 In this project I'll be demonstrating an automatic irrigation system. 
 
